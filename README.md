@@ -232,3 +232,6 @@ Five Nights at Freddy's 2 is available as a full free version with all features 
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-15 23:27:29 UTC
